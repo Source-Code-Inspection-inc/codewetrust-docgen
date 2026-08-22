@@ -45,7 +45,7 @@ This installs `playwright`, `furl`, `requests`, and `anthropic`. Playwright
 also needs its browser binaries installed once:
 
 ```bash
-playwright install chromium
+python -m playwright install chromium
 ```
 
 ---
