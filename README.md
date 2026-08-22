@@ -45,7 +45,7 @@ This installs `playwright`, `furl`, `requests`, and `anthropic`. Playwright
 also needs its browser binaries installed once:
 
 ```bash
-playwright install chromium
+python -m playwright install chromium
 ```
 
 ---
@@ -56,8 +56,8 @@ Set your staging credentials as environment variables, then run the
 scanner:
 
 ```bash
-export CWT_USER="you@example.com"
-export CWT_PASS="your-password"
+$env:CWT_USER="saba.ghani@codewetrust.com"
+$env:CWT_PASS="your-password"
 python -m c2m_docgen.run
 ```
 
@@ -111,7 +111,7 @@ button, chart, and control in plain language.
 
 ```bash
 pip install anthropic
-export ANTHROPIC_API_KEY="sk-ant-..."
+$env:ANTHROPIC_API_KEY="sk-ant-..."
 python -m c2m_docgen.ai_manual
 ```
 
