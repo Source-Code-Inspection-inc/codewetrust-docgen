@@ -111,7 +111,7 @@ button, chart, and control in plain language.
 
 ```bash
 pip install anthropic
-export ANTHROPIC_API_KEY="sk-ant-..."
+$env:ANTHROPIC_API_KEY="sk-ant-..."
 python -m c2m_docgen.ai_manual
 ```
 
