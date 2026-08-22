@@ -56,8 +56,8 @@ Set your staging credentials as environment variables, then run the
 scanner:
 
 ```bash
-export CWT_USER="you@example.com"
-export CWT_PASS="your-password"
+$env:CWT_USER="saba.ghani@codewetrust.com"
+$env:CWT_PASS="your-password"
 python -m c2m_docgen.run
 ```
 
