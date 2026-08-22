@@ -1,0 +1,4 @@
+playwright
+furl
+requests
+anthropic
