@@ -3,20 +3,22 @@ registry, the browser, login, and the Scanner. Run as:
 
     python -m c2m_docgen.run
 """
-from datetime import date
+import argparse
 
 from playwright.sync_api import sync_playwright
 
 from .auth import login
 from .config import C2MDocGenConfig
-from .scanner import run_scan
+from .scanner import run_scan, run_single_product_scan
 from .guid_tracker import ProductRegistry
 from .manual import init_manual
 
 
-def main(config: C2MDocGenConfig = None):
+def main(config: C2MDocGenConfig = None, product_name: str = None):
+    """If product_name is given, scans only that one product (skipping it
+    entirely if it's deleted/not found) instead of doing the full BFS
+    site scan."""
     config = config or C2MDocGenConfig()
-    run_date = date.today().isoformat()
 
     registry = ProductRegistry(max_products=config.max_products)
     init_manual(config.output_dir)
@@ -30,12 +32,22 @@ def main(config: C2MDocGenConfig = None):
         page.on("response", lambda r: registry.on_response(r, config.trusted_id_source_paths))
 
         login(page, config)
-        registry.refresh_from_products_brief(page, config.start_url)
 
-        run_scan(page, config, registry, run_date)
+        if product_name:
+            run_single_product_scan(page, config, registry, product_name)
+        else:
+            registry.refresh_from_products_brief(page, config.start_url)
+            run_scan(page, config, registry)
 
         browser.close()
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--product",
+        help="Scan only this single product by name (skipped if it's deleted or not found), "
+             "instead of doing the full site scan.",
+    )
+    args = parser.parse_args()
+    main(product_name=args.product)

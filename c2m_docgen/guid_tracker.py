@@ -18,7 +18,15 @@ class ProductRegistry:
         self.max_products = max_products
         self.captured_ids = set()
         self.queued_ids = set()
+        self.broken_ids = set()
         self.guid_to_name = {}
+
+    def mark_broken(self, gid):
+        """Flags a product GUID as broken (its page showed an error
+        notification -- e.g. a deleted/orphaned scan session) so
+        pop_new_dynamic_urls stops counting it against max_products,
+        freeing its slot for a working replacement instead."""
+        self.broken_ids.add(gid)
 
     def add_ids_from_text(self, text, source_label, source_url=""):
         """Scans arbitrary text (a URL or a response body) for GUIDs and
@@ -104,15 +112,18 @@ class ProductRegistry:
 
     def pop_new_dynamic_urls(self, start_url, dynamic_route_templates, visited):
         """Turns any newly captured GUIDs (not yet queued) into real page
-        URLs, up to max_products distinct GUIDs total. Returns the list of
-        new URLs to enqueue."""
-        if len(self.queued_ids) >= self.max_products:
+        URLs, up to max_products distinct WORKING GUIDs total -- one
+        marked broken (see mark_broken) no longer counts against the cap,
+        so the next call here queues a replacement in its place. Returns
+        the list of new URLs to enqueue."""
+        active_count = len(self.queued_ids - self.broken_ids)
+        if active_count >= self.max_products:
             return []
 
         new_urls = []
         new_ids = self.captured_ids - self.queued_ids
         for gid in new_ids:
-            if len(self.queued_ids) >= self.max_products:
+            if active_count >= self.max_products:
                 break
             for template in dynamic_route_templates:
                 path = template.replace("{id}", gid)
@@ -121,5 +132,6 @@ class ProductRegistry:
                     new_urls.append(full_url)
                     print("Queued dynamic route:", full_url)
             self.queued_ids.add(gid)
+            active_count += 1
 
         return new_urls

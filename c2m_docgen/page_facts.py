@@ -25,10 +25,44 @@ def wait_for_content_ready(page, extra_ms=800):
     page.wait_for_timeout(extra_ms)
 
 
+# Narrower than auth.py's login-failure selector (which also matches the
+# generic [role='alert'] / .ant-alert-error -- fine for a one-shot login
+# check, too broad across arbitrary scanned pages where a legitimate
+# non-error alert could false-positive). A broken/orphaned product
+# (backing scan session deleted server-side but the product card still
+# listed) surfaces via one of these two Ant Design error-styled
+# notification/message components ("Resource not found", "Scan session
+# not found: <guid>.") on an otherwise blank page.
+ERROR_NOTIFICATION_SELECTOR = ".ant-notification-notice-error, .ant-message-error"
+
+
+def page_has_error_notification(page):
+    """True if an Ant Design error notification/message/alert is visible
+    on the page right now -- used to detect a broken product page (deleted
+    scan session, etc.) so the scanner can skip screenshotting it and free
+    up its max_products slot for a working replacement instead."""
+    try:
+        return page.locator(ERROR_NOTIFICATION_SELECTOR).first.count() > 0
+    except Exception:
+        return False
+
+
 def get_page_heading(page):
     """Best-effort extraction of a visible page/section heading, so the
     description has something more human than a raw URL when no tab
-    label is available."""
+    label is available. Also relied on by scanner.py to resolve a
+    product's display name when it isn't in the API-sourced registry yet.
+
+    Tries actual heading tags first, then Ant Design's PageHeader title
+    class, and finally falls back to the last crumb of this app's
+    breadcrumb -- confirmed (via DOM inspection) to render as plain
+    sibling <a> tags with NO Ant Design/breadcrumb class at all (this app
+    uses styled-components with hashed class names for its header, e.g.
+    "sc-beySPh SqWNm", which aren't stable across builds and aren't worth
+    matching directly). Every breadcrumb here starts with a "Products"
+    crumb, so a parent whose first <a> child is exactly "Products" is a
+    reliable, class-name-free signal -- its last crumb is the page's own
+    title (e.g. "Products > Apache Arrow 2025" -> "Apache Arrow 2025")."""
     for selector in ["h1", "h2", ".ant-page-header-heading-title", ".ant-typography h1"]:
         el = page.query_selector(selector)
         if el:
@@ -38,6 +72,33 @@ def get_page_heading(page):
                     return text
             except Exception:
                 continue
+
+    try:
+        text = page.evaluate(
+            """() => {
+                // Each crumb is individually wrapped (its own parent div), so
+                // sibling crumbs only share a GRANDPARENT, not a parent.
+                const anchors = Array.from(document.querySelectorAll('a'));
+                const byGrandparent = new Map();
+                for (const a of anchors) {
+                    const gp = a.parentElement && a.parentElement.parentElement;
+                    if (!gp) continue;
+                    if (!byGrandparent.has(gp)) byGrandparent.set(gp, []);
+                    byGrandparent.get(gp).push(a);
+                }
+                for (const crumbs of byGrandparent.values()) {
+                    if (crumbs.length >= 2 && crumbs[0].textContent.trim() === 'Products') {
+                        return crumbs[crumbs.length - 1].textContent.trim();
+                    }
+                }
+                return null;
+            }"""
+        )
+        if text:
+            return text
+    except Exception:
+        pass
+
     return None
 
 

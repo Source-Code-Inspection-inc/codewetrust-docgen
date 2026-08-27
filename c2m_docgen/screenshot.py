@@ -6,7 +6,7 @@ each one gets its own screenshot.
 import os
 
 from .manual import append_section
-from .naming import slugify
+from .naming import build_screenshot_filename, slugify
 from .page_facts import collect_page_facts, wait_for_content_ready
 
 
@@ -41,13 +41,19 @@ def save_screenshot_with_description(page, out_dir, subdir, filename_base, title
     return png_path
 
 
-def capture_tabs_if_present(page, out_dir, subdir, run_date):
+def capture_tabs_if_present(page, out_dir, subdir, product_name=None):
     """Handles Ant Design tabs, including the nested pattern seen here:
     top-level tabs (Tech Stack, Dev Team, Security...) each containing a
     vertical LHN sub-menu built from the same tabs component. Clicks every
     top tab, then every LHN item inside it, screenshotting each
     combination. Falls back to a single screenshot if no tabs exist, and
     to a per-top-tab screenshot if a top tab has no nested LHN.
+
+    product_name (raw, unslugified display name) switches the filename
+    scheme: when set, screenshots are named "Product-<product_name>-
+    <Tab>-<lhn>.png" via naming.build_screenshot_filename instead of the
+    plain "{tab-slug}[_{lhn-slug}]" scheme used as the fallback for
+    site-wide tabbed pages (subdir/product_name is None).
 
     Returns True if any tab-based screenshot was taken (caller should skip
     its own fallback screenshot), False if no tabs were found at all."""
@@ -81,7 +87,10 @@ def capture_tabs_if_present(page, out_dir, subdir, run_date):
 
             if not active_nav:
                 # no LHN under this tab -- just screenshot the tab itself
-                filename_base = f"{run_date}_{safe_top}"
+                if product_name:
+                    filename_base = build_screenshot_filename(product_name, top_label, "overview", ext=None)
+                else:
+                    filename_base = safe_top
                 save_screenshot_with_description(page, out_dir, subdir, filename_base, title=top_label)
                 continue
 
@@ -100,7 +109,10 @@ def capture_tabs_if_present(page, out_dir, subdir, run_date):
                     lhn_tab.click()
                     wait_for_content_ready(page, extra_ms=500)
                     safe_lhn = slugify(lhn_label, maxlen=30)
-                    filename_base = f"{run_date}_{safe_top}_{safe_lhn}"
+                    if product_name:
+                        filename_base = build_screenshot_filename(product_name, top_label, lhn_label, ext=None)
+                    else:
+                        filename_base = f"{safe_top}_{safe_lhn}"
                     save_screenshot_with_description(
                         page, out_dir, subdir, filename_base,
                         title=f"{top_label} > {lhn_label}"
