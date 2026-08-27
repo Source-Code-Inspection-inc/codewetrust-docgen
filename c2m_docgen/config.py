@@ -28,7 +28,7 @@ class C2MDocGenConfig:
     # --- scan behavior ---
     output_dir: str = "screenshots"
     max_pages: int = 1000
-    max_products: int = 2  # cap how many distinct product GUIDs get scanned
+    max_products: int = 1  # cap how many distinct product GUIDs get scanned
     delay_seconds: float = 0.5
     timeout_ms: int = 30000
     viewport: dict = field(default_factory=lambda: {"width": 1280, "height": 800})

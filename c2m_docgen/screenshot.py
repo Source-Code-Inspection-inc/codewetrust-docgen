@@ -1,12 +1,13 @@
 """Owns the file-writing side effects: taking a full-page screenshot,
 saving it into the right subfolder, and appending a matching section to
-manual.md. Also handles clicking through Ant Design tabs/LHN sub-tabs so
-each one gets its own screenshot.
+manual.md. Also handles clicking through Ant Design tabs/LHN sub-tabs (on
+/analyzed-repository/{id}) and the flat Radio.Group pill-button tabs (on
+/product/{id}) so each one gets its own screenshot.
 """
 import os
 
 from .manual import append_section
-from .naming import build_screenshot_filename, slugify
+from .naming import build_flat_tab_filename, build_screenshot_filename, slugify
 from .page_facts import collect_page_facts, wait_for_content_ready
 
 
@@ -60,7 +61,10 @@ def capture_tabs_if_present(page, out_dir, subdir, product_name=None):
 
     top_nav = page.query_selector(".ant-tabs-nav-list")
     if not top_nav:
-        return False
+        # /product/{id} uses a different, flat Ant Design Radio.Group
+        # styled as pill buttons (Security / Quality and Development Team
+        # / Reports & Exports) instead of real Tabs -- no nested LHN here.
+        return capture_radio_tabs_if_present(page, out_dir, subdir, product_name=product_name)
 
     top_tabs = top_nav.query_selector_all(":scope > .ant-tabs-tab")
     top_count = len(top_tabs)
@@ -122,5 +126,46 @@ def capture_tabs_if_present(page, out_dir, subdir, product_name=None):
 
         except Exception as e:
             print("Top tab click/screenshot failed:", e)
+
+    return True
+
+
+def capture_radio_tabs_if_present(page, out_dir, subdir, product_name=None):
+    """Handles the /product/{id} page's flat tab bar: an Ant Design
+    Radio.Group rendered as pill buttons (Security / Quality and
+    Development Team / Reports & Exports), confirmed via DOM inspection to
+    use ".ant-radio-button-label" spans rather than real Ant Design Tabs
+    (".ant-tabs-nav-list", handled separately by capture_tabs_if_present)
+    or a Segmented control. No nested LHN exists on this page, so each
+    button gets one screenshot via naming.build_flat_tab_filename instead
+    of the Tab+LHN scheme.
+
+    Returns True if any screenshot was taken, False if no radio-button
+    tabs were found (the page has neither Tabs nor this pattern)."""
+    labels = page.query_selector_all(".ant-radio-button-label")
+    count = len(labels)
+    if count == 0:
+        return False
+
+    print(f"Found {count} radio-button tabs")
+
+    for i in range(count):
+        try:
+            # re-query each time -- the panel may re-render after a click
+            current_labels = page.query_selector_all(".ant-radio-button-label")
+            if i >= len(current_labels):
+                break
+            label_el = current_labels[i]
+            label_text = label_el.inner_text().strip() or f"tab{i+1}"
+            label_el.click()
+            wait_for_content_ready(page, extra_ms=500)
+
+            if product_name:
+                filename_base = build_flat_tab_filename(product_name, label_text, ext=None)
+            else:
+                filename_base = slugify(label_text, maxlen=30)
+            save_screenshot_with_description(page, out_dir, subdir, filename_base, title=label_text)
+        except Exception as e:
+            print("Radio tab click/screenshot failed:", e)
 
     return True

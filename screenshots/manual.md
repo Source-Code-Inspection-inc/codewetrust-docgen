@@ -70,9 +70,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Stack > Charts
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Charts](plate/Product-plate-Techstack-charts.png)
+![Tech Stack > Charts](sample-3/Product-sample 3-Techstack-charts.png)
 
 **What you're looking at**
 
@@ -85,9 +85,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Stack > Programming Languages
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Programming Languages](plate/Product-plate-Techstack-programminglanguages.png)
+![Tech Stack > Programming Languages](sample-3/Product-sample 3-Techstack-programminglanguages.png)
 
 **What you're looking at**
 
@@ -102,9 +102,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Stack > Code Structure
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Code Structure](plate/Product-plate-Techstack-codestructure.png)
+![Tech Stack > Code Structure](sample-3/Product-sample 3-Techstack-codestructure.png)
 
 **What you can do here**
 
@@ -114,9 +114,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Stack > Tools Overview
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Tools Overview](plate/Product-plate-Techstack-toolsoverview.png)
+![Tech Stack > Tools Overview](sample-3/Product-sample 3-Techstack-toolsoverview.png)
 
 **What you're looking at**
 
@@ -131,23 +131,23 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Stack > Tools
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Tools](plate/Product-plate-Techstack-tools.png)
+![Tech Stack > Tools](sample-3/Product-sample 3-Techstack-tools.png)
 
 **What you can do here**
 
 - **Export/save:** csv
 - **Other actions:** Show/hide columns
 - **Dropdown filters:** 25 / page
-- **Pagination:** 94 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Tech Stack > Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Details](plate/Product-plate-Techstack-details.png)
+![Tech Stack > Details](sample-3/Product-sample 3-Techstack-details.png)
 
 **What you're looking at**
 
@@ -160,14 +160,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Date filter:** filter this view by a date range (1 control(s))
 - **Dropdown filters:** 10 / page
 - **Column filters:** 9 column(s) can be filtered/searched
-- **Pagination:** 612 pages, 10 / page
+- **Pagination:** 1 pages, 10 / page
 
 ---
 ## Tech Stack > BugSpot
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > BugSpot](plate/Product-plate-Techstack-bugspot.png)
+![Tech Stack > BugSpot](sample-3/Product-sample 3-Techstack-bugspot.png)
 
 **What you're looking at**
 
@@ -180,9 +180,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Stack > Architecture Diagram
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Architecture Diagram](plate/Product-plate-Techstack-architecturediagram.png)
+![Tech Stack > Architecture Diagram](sample-3/Product-sample 3-Techstack-architecturediagram.png)
 
 **What you can do here**
 
@@ -191,9 +191,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Dev Team > Charts
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Dev Team > Charts](plate/Product-plate-Devteam-charts.png)
+![Dev Team > Charts](sample-3/Product-sample 3-Devteam-charts.png)
 
 **What you're looking at**
 
@@ -208,9 +208,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Dev Team > Developers
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Dev Team > Developers](plate/Product-plate-Devteam-developers.png)
+![Dev Team > Developers](sample-3/Product-sample 3-Devteam-developers.png)
 
 **What you're looking at**
 
@@ -222,14 +222,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 1 column(s) can be filtered/searched
-- **Pagination:** 13 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Dev Team > Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Dev Team > Details](plate/Product-plate-Devteam-details.png)
+![Dev Team > Details](sample-3/Product-sample 3-Devteam-details.png)
 
 **What you're looking at**
 
@@ -241,14 +241,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Edit, Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 2 column(s) can be filtered/searched
-- **Pagination:** 13 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Dev Team > History Analysis
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Dev Team > History Analysis](plate/Product-plate-Devteam-historyanalysis.png)
+![Dev Team > History Analysis](sample-3/Product-sample 3-Devteam-historyanalysis.png)
 
 **What you're looking at**
 
@@ -261,9 +261,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Dev Team > Deduplicate Contributors
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Dev Team > Deduplicate Contributors](plate/Product-plate-Devteam-deduplicatecontributors.png)
+![Dev Team > Deduplicate Contributors](sample-3/Product-sample 3-Devteam-deduplicatecontributors.png)
 
 **What you're looking at**
 
@@ -273,16 +273,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 
 - **Export/save:** csv
 - **Other actions:** Merge, Skip, Show/hide columns
-- **Dropdown filters:** 25 / page
 - **Column filters:** 4 column(s) can be filtered/searched
-- **Pagination:** 5 pages, 25 / page
 
 ---
 ## Static Analysis > Charts
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Charts](plate/Product-plate-Staticanalysis-charts.png)
+![Static Analysis > Charts](sample-3/Product-sample 3-Staticanalysis-charts.png)
 
 **What you're looking at**
 
@@ -295,9 +293,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Static Analysis > Overview
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Overview](plate/Product-plate-Staticanalysis-overview.png)
+![Static Analysis > Overview](sample-3/Product-sample 3-Staticanalysis-overview.png)
 
 **What you're looking at**
 
@@ -311,9 +309,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Static Analysis > Code Quality Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Code Quality Details](plate/Product-plate-Staticanalysis-codequalitydetails.png)
+![Static Analysis > Code Quality Details](sample-3/Product-sample 3-Staticanalysis-codequalitydetails.png)
 
 **What you're looking at**
 
@@ -325,14 +323,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Delete, Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 5 column(s) can be filtered/searched
-- **Pagination:** 62 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Static Analysis > Duplicated Blocks
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Duplicated Blocks](plate/Product-plate-Staticanalysis-duplicatedblocks.png)
+![Static Analysis > Duplicated Blocks](sample-3/Product-sample 3-Staticanalysis-duplicatedblocks.png)
 
 **What you're looking at**
 
@@ -342,16 +340,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 
 - **Export/save:** csv
 - **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
 - **Column filters:** 1 column(s) can be filtered/searched
-- **Pagination:** 6 pages, 25 / page
 
 ---
 ## Static Analysis > Time Trends
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Time Trends](plate/Product-plate-Staticanalysis-timetrends.png)
+![Static Analysis > Time Trends](sample-3/Product-sample 3-Staticanalysis-timetrends.png)
 
 **What you're looking at**
 
@@ -365,9 +361,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Static Analysis > Frequent Issues
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Frequent Issues](plate/Product-plate-Staticanalysis-frequentissues.png)
+![Static Analysis > Frequent Issues](sample-3/Product-sample 3-Staticanalysis-frequentissues.png)
 
 **What you're looking at**
 
@@ -379,14 +375,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 2 column(s) can be filtered/searched
-- **Pagination:** 7 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Static Analysis > Code Risks Charts
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Code Risks Charts](plate/Product-plate-Staticanalysis-coderiskscharts.png)
+![Static Analysis > Code Risks Charts](sample-3/Product-sample 3-Staticanalysis-coderiskscharts.png)
 
 **What you're looking at**
 
@@ -399,9 +395,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Static Analysis > Code Risks Overview
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Code Risks Overview](plate/Product-plate-Staticanalysis-coderisksoverview.png)
+![Static Analysis > Code Risks Overview](sample-3/Product-sample 3-Staticanalysis-coderisksoverview.png)
 
 **What you're looking at**
 
@@ -415,9 +411,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Static Analysis > Hardcoded Tokens
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Hardcoded Tokens](plate/Product-plate-Staticanalysis-hardcodedtokens.png)
+![Static Analysis > Hardcoded Tokens](sample-3/Product-sample 3-Staticanalysis-hardcodedtokens.png)
 
 **What you're looking at**
 
@@ -427,16 +423,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 
 - **Export/save:** csv
 - **Other actions:** Delete, Show/hide columns
-- **Dropdown filters:** 25 / page
 - **Column filters:** 4 column(s) can be filtered/searched
-- **Pagination:** 18 pages, 25 / page
 
 ---
 ## Static Analysis > Code Risks Trends
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Static Analysis > Code Risks Trends](plate/Product-plate-Staticanalysis-coderiskstrends.png)
+![Static Analysis > Code Risks Trends](sample-3/Product-sample 3-Staticanalysis-coderiskstrends.png)
 
 **What you're looking at**
 
@@ -450,9 +444,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Security > Charts
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Security > Charts](plate/Product-plate-Security-charts.png)
+![Security > Charts](sample-3/Product-sample 3-Security-charts.png)
 
 **What you're looking at**
 
@@ -465,9 +459,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Security > Overview
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Security > Overview](plate/Product-plate-Security-overview.png)
+![Security > Overview](sample-3/Product-sample 3-Security-overview.png)
 
 **What you're looking at**
 
@@ -480,9 +474,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Security > Security Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Security > Security Details](plate/Product-plate-Security-securitydetails.png)
+![Security > Security Details](sample-3/Product-sample 3-Security-securitydetails.png)
 
 **What you're looking at**
 
@@ -494,14 +488,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Edit, Delete, Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 5 column(s) can be filtered/searched
-- **Pagination:** 15 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Security > Dependency Vulnerabilities
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Security > Dependency Vulnerabilities](plate/Product-plate-Security-dependencyvulnerabilities.png)
+![Security > Dependency Vulnerabilities](sample-3/Product-sample 3-Security-dependencyvulnerabilities.png)
 
 **What you're looking at**
 
@@ -513,14 +507,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 3 column(s) can be filtered/searched
-- **Pagination:** 5 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Security > Security Rule Violations
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Security > Security Rule Violations](plate/Product-plate-Security-securityruleviolations.png)
+![Security > Security Rule Violations](sample-3/Product-sample 3-Security-securityruleviolations.png)
 
 **What you're looking at**
 
@@ -537,24 +531,25 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Security > Time Trends
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Security > Time Trends](plate/Product-plate-Security-timetrends.png)
+![Security > Time Trends](sample-3/Product-sample 3-Security-timetrends.png)
 
 **What you're looking at**
 
-- A chart titled "Security Analysis Sunburst Chart"
+- A line chart titled "Security Analysis Time Trends"
 
 **What you can do here**
 
-- **Export/save:** png
+- **Export/save:** Save as PNG
+- **Dropdown filters:** Past 30 days
 
 ---
 ## Licenses and Packages > Charts
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Licenses and Packages > Charts](plate/Product-plate-Licensesandpackages-charts.png)
+![Licenses and Packages > Charts](sample-3/Product-sample 3-Licensesandpackages-charts.png)
 
 **What you're looking at**
 
@@ -567,24 +562,26 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Licenses and Packages > Licenses Overview
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Licenses and Packages > Licenses Overview](plate/Product-plate-Licensesandpackages-licensesoverview.png)
+![Licenses and Packages > Licenses Overview](sample-3/Product-sample 3-Licensesandpackages-licensesoverview.png)
 
 **What you're looking at**
 
-- A chart titled "License Compliance Sunburts Chart"
+- A table with columns: License Name, Count, Allows Saas, Allows Distribution, Allows Modification
 
 **What you can do here**
 
-- **Export/save:** png
+- **Export/save:** csv
+- **Other actions:** Show/hide columns
+- **Column filters:** 4 column(s) can be filtered/searched
 
 ---
 ## Licenses and Packages > Licenses Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Licenses and Packages > Licenses Details](plate/Product-plate-Licensesandpackages-licensesdetails.png)
+![Licenses and Packages > Licenses Details](sample-3/Product-sample 3-Licensesandpackages-licensesdetails.png)
 
 **What you're looking at**
 
@@ -596,14 +593,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Edit, Delete, Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 6 column(s) can be filtered/searched
-- **Pagination:** 24 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Licenses and Packages > Packages Overview
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Licenses and Packages > Packages Overview](plate/Product-plate-Licensesandpackages-packagesoverview.png)
+![Licenses and Packages > Packages Overview](sample-3/Product-sample 3-Licensesandpackages-packagesoverview.png)
 
 **What you're looking at**
 
@@ -616,9 +613,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Licenses and Packages > Packages Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Licenses and Packages > Packages Details](plate/Product-plate-Licensesandpackages-packagesdetails.png)
+![Licenses and Packages > Packages Details](sample-3/Product-sample 3-Licensesandpackages-packagesdetails.png)
 
 **What you're looking at**
 
@@ -630,14 +627,14 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 - **Other actions:** Edit, Show/hide columns
 - **Dropdown filters:** 25 / page
 - **Column filters:** 5 column(s) can be filtered/searched
-- **Pagination:** 22 pages, 25 / page
+- **Pagination:** 1 pages, 25 / page
 
 ---
 ## Licenses and Packages > Time Trends
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Licenses and Packages > Time Trends](plate/Product-plate-Licensesandpackages-timetrends.png)
+![Licenses and Packages > Time Trends](sample-3/Product-sample 3-Licensesandpackages-timetrends.png)
 
 **What you're looking at**
 
@@ -651,22 +648,22 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Tech Debt
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Debt](plate/Product-plate-Techdebt-overview.png)
+![Tech Debt](sample-3/Product-sample 3-Techdebt-overview.png)
 
 **What you can do here**
 
 - **Export/save:** Save Product Settings or Export As JSON File
 - **Other actions:** Reset to default, Align Tech Debt
-- **Dropdown filters:** Critical, Blocker, Blocker, Blocker, Critical
+- **Dropdown filters:** Critical, Blocker, Critical, Critical, Critical
 
 ---
 ## AI Readiness
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![AI Readiness](plate/Product-plate-Aireadiness-overview.png)
+![AI Readiness](sample-3/Product-sample 3-Aireadiness-overview.png)
 
 **What you can do here**
 
@@ -676,9 +673,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## AI Assistant
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![AI Assistant](plate/Product-plate-Aiassistant-overview.png)
+![AI Assistant](sample-3/Product-sample 3-Aiassistant-overview.png)
 
 **What you can do here**
 
@@ -687,9 +684,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Benchmark
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Benchmark](plate/Product-plate-Benchmark-overview.png)
+![Benchmark](sample-3/Product-sample 3-Benchmark-overview.png)
 
 **What you can do here**
 
@@ -699,9 +696,9 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Scan Status > Job Details
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Scan Status > Job Details](plate/Product-plate-Scanstatus-jobdetails.png)
+![Scan Status > Job Details](sample-3/Product-sample 3-Scanstatus-jobdetails.png)
 
 **What you're looking at**
 
@@ -716,18 +713,18 @@ Help, Import, Reset, Default, Imported Preset, Show/hide columns, Add Access Con
 ---
 ## Scan Status > Job Matrix
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Scan Status > Job Matrix](plate/Product-plate-Scanstatus-jobmatrix.png)
+![Scan Status > Job Matrix](sample-3/Product-sample 3-Scanstatus-jobmatrix.png)
 
 _No interactive controls or data visualizations detected._
 
 ---
 ## Scan Status > Log
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Scan Status > Log](plate/Product-plate-Scanstatus-log.png)
+![Scan Status > Log](sample-3/Product-sample 3-Scanstatus-log.png)
 
 **What you're looking at**
 
@@ -736,16 +733,14 @@ _No interactive controls or data visualizations detected._
 **What you can do here**
 
 - **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
 - **Column filters:** 1 column(s) can be filtered/searched
-- **Pagination:** 11 pages, 25 / page
 
 ---
-## https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-7cb9-08dee756aae7
+## Security
 
-**URL:** `https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-7cb9-08dee756aae7`
+**URL:** `https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-7376-08dec2104d26`
 
-![https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-7cb9-08dee756aae7](plate/plate_product-detail.png)
+![Security](sample-3/Product-sample 3-Security.png)
 
 **What you're looking at**
 
@@ -754,8 +749,6 @@ _No interactive controls or data visualizations detected._
 - A chart titled "Security Outdated Vulnerable Packages"
 - A pie chart titled "Security License Distribution"
 - A bar chart titled "Security License Risk Distribution"
-- A bar chart titled "Security Outdated Versions"
-- A bar chart titled "Quality and Development Team Defects"
 - A pie chart titled "Quality and Development Team Tech Stack"
 - A bar chart titled "Quality and Development Team Commit Activity"
 - A table with columns: Repository, Languages, Size, LOC, Date, Parsing Time, Technical Debt
@@ -767,11 +760,11 @@ _No interactive controls or data visualizations detected._
 - **Column filters:** 2 column(s) can be filtered/searched
 
 ---
-## https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-f685-08dee756aac7
+## Quality and Development Team
 
-**URL:** `https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-f685-08dee756aac7`
+**URL:** `https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-7376-08dec2104d26`
 
-![https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-f685-08dee756aac7](product-p-000c0000-6e13-0646-f685-08dee7.png)
+![Quality and Development Team](sample-3/Product-sample 3-Qualityanddevelopmentteam.png)
 
 **What you're looking at**
 
@@ -780,8 +773,6 @@ _No interactive controls or data visualizations detected._
 - A chart titled "Security Outdated Vulnerable Packages"
 - A pie chart titled "Security License Distribution"
 - A bar chart titled "Security License Risk Distribution"
-- A bar chart titled "Security Outdated Versions"
-- A bar chart titled "Quality and Development Team Defects"
 - A pie chart titled "Quality and Development Team Tech Stack"
 - A bar chart titled "Quality and Development Team Commit Activity"
 - A table with columns: Repository, Languages, Size, LOC, Date, Parsing Time, Technical Debt
@@ -793,670 +784,19 @@ _No interactive controls or data visualizations detected._
 - **Column filters:** 2 column(s) can be filtered/searched
 
 ---
-## Tech Stack > Charts
+## Reports & Exports
 
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
+**URL:** `https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-7376-08dec2104d26`
 
-![Tech Stack > Charts](mysql-8-0/Product-mysql-8.0-Techstack-charts.png)
-
-**What you're looking at**
-
-- A pie chart titled "Tech Stack Pie Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Tech Stack > Programming Languages
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > Programming Languages](mysql-8-0/Product-mysql-8.0-Techstack-programminglanguages.png)
-
-**What you're looking at**
-
-- A table with columns: Language, Files, % Comment LOC, Code Lines, % Code Lines VS repository, Type, Rank
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-- **Column filters:** 2 column(s) can be filtered/searched
-
----
-## Tech Stack > Code Structure
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > Code Structure](mysql-8-0/Product-mysql-8.0-Techstack-codestructure.png)
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-
----
-## Tech Stack > Tools Overview
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > Tools Overview](mysql-8-0/Product-mysql-8.0-Techstack-toolsoverview.png)
-
-**What you're looking at**
-
-- A pie chart titled "Tools Details"
-- A table with columns: Name, Category, Count
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-
----
-## Tech Stack > Tools
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > Tools](mysql-8-0/Product-mysql-8.0-Techstack-tools.png)
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Pagination:** 4 pages, 25 / page
-
----
-## Tech Stack > Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > Details](mysql-8-0/Product-mysql-8.0-Techstack-details.png)
-
-**What you're looking at**
-
-- A table with columns: File Path, Language, Team, Language Type, Code Lines, Comment Lines, Blank Lines, Bugspot Score, Duplicated Lines, Size, Auto-generated, 3rd Party, Test, Included, Last Updated On, Last Updated By
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Include, Exclude, Show/hide columns
-- **Date filter:** filter this view by a date range (1 control(s))
-- **Dropdown filters:** 10 / page
-- **Column filters:** 9 column(s) can be filtered/searched
-- **Pagination:** 1325 pages, 10 / page
-
----
-## Tech Stack > BugSpot
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > BugSpot](mysql-8-0/Product-mysql-8.0-Techstack-bugspot.png)
-
-**What you're looking at**
-
-- A chart titled "BugSpot Sunburst Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Tech Stack > Architecture Diagram
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Stack > Architecture Diagram](mysql-8-0/Product-mysql-8.0-Techstack-architecturediagram.png)
-
-**What you can do here**
-
-- **Export/save:** json
-
----
-## Dev Team > Charts
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Dev Team > Charts](mysql-8-0/Product-mysql-8.0-Devteam-charts.png)
-
-**What you're looking at**
-
-- A bar chart titled "DEV_TEAM_CHARTS"
-
-**What you can do here**
-
-- **Export/save:** Save as PNG or csv
-- **Date filter:** filter this view by a date range (1 control(s))
-- **Dropdown filters:** Languages, Teams
-
----
-## Dev Team > Developers
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Dev Team > Developers](mysql-8-0/Product-mysql-8.0-Devteam-developers.png)
-
-**What you're looking at**
-
-- A table with columns: Name, Commits, Fixes, Features, Last Commit On
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 1 column(s) can be filtered/searched
-- **Pagination:** 57 pages, 25 / page
-
----
-## Dev Team > Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Dev Team > Details](mysql-8-0/Product-mysql-8.0-Devteam-details.png)
-
-**What you're looking at**
-
-- A table with columns: Name, Team, Commits, Fixes, Features, Languages, Last Commit On
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Edit, Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 2 column(s) can be filtered/searched
-- **Pagination:** 57 pages, 25 / page
-
----
-## Dev Team > History Analysis
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Dev Team > History Analysis](mysql-8-0/Product-mysql-8.0-Devteam-historyanalysis.png)
-
-**What you're looking at**
-
-- A chart titled "DEV_TEAM_HISTORY_ANALYSIS"
-
-**What you can do here**
-
-- **Export/save:** Save as PNG
-
----
-## Dev Team > Deduplicate Contributors
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Dev Team > Deduplicate Contributors](mysql-8-0/Product-mysql-8.0-Devteam-deduplicatecontributors.png)
-
-**What you're looking at**
-
-- A table with columns: Name 1, Email 1, Name 2, Email 2, Similarity (%)
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Merge, Skip, Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 4 column(s) can be filtered/searched
-- **Pagination:** 12 pages, 25 / page
-
----
-## Static Analysis > Charts
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Charts](mysql-8-0/Product-mysql-8.0-Staticanalysis-charts.png)
-
-**What you're looking at**
-
-- A chart titled "Static Code Analysis Sunburst Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Static Analysis > Overview
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Overview](mysql-8-0/Product-mysql-8.0-Staticanalysis-overview.png)
-
-**What you're looking at**
-
-- A table with columns: Type, Info, Minor, Major, Critical, Blocker
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-
----
-## Static Analysis > Code Quality Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Code Quality Details](mysql-8-0/Product-mysql-8.0-Staticanalysis-codequalitydetails.png)
-
-**What you're looking at**
-
-- A table with columns: File Path, Type, Message, Severity, Line, Language
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Delete, Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 5 column(s) can be filtered/searched
-- **Pagination:** 2951 pages, 25 / page
-
----
-## Static Analysis > Duplicated Blocks
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Duplicated Blocks](mysql-8-0/Product-mysql-8.0-Staticanalysis-duplicatedblocks.png)
-
-**What you're looking at**
-
-- A table with columns: File Path 1, File Path 2
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 1 column(s) can be filtered/searched
-- **Pagination:** 105 pages, 25 / page
-
----
-## Static Analysis > Time Trends
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Time Trends](mysql-8-0/Product-mysql-8.0-Staticanalysis-timetrends.png)
-
-**What you can do here**
-
-- **Export/save:** Save as PNG
-- **Dropdown filters:** Past 30 days
-
----
-## Static Analysis > Frequent Issues
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Frequent Issues](mysql-8-0/Product-mysql-8.0-Staticanalysis-frequentissues.png)
-
-**What you're looking at**
-
-- A table with columns: Rule Name, Occurrences, Issue Type, Issue Severity
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 2 column(s) can be filtered/searched
-- **Pagination:** 14 pages, 25 / page
-
----
-## Static Analysis > Code Risks Charts
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Code Risks Charts](mysql-8-0/Product-mysql-8.0-Staticanalysis-coderiskscharts.png)
-
-**What you're looking at**
-
-- A chart titled "Code Risks Sunburst Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Static Analysis > Code Risks Overview
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Code Risks Overview](mysql-8-0/Product-mysql-8.0-Staticanalysis-coderisksoverview.png)
-
-**What you're looking at**
-
-- A table with columns: apiKeys, Domains, Files, IPs, Passwords, Private Keys, User IDs
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-
----
-## Static Analysis > Hardcoded Tokens
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Hardcoded Tokens](mysql-8-0/Product-mysql-8.0-Staticanalysis-hardcodedtokens.png)
-
-**What you're looking at**
-
-- A table with columns: Type, File Path, Language, Finding, Line Content
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Delete, Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 4 column(s) can be filtered/searched
-- **Pagination:** 20 pages, 25 / page
-
----
-## Static Analysis > Code Risks Trends
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Static Analysis > Code Risks Trends](mysql-8-0/Product-mysql-8.0-Staticanalysis-coderiskstrends.png)
-
-**What you can do here**
-
-- **Export/save:** Save as PNG
-- **Dropdown filters:** Past 30 days
-
----
-## Security > Charts
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Security > Charts](mysql-8-0/Product-mysql-8.0-Security-charts.png)
-
-**What you're looking at**
-
-- A chart titled "Security Analysis Sunburst Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Security > Overview
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Security > Overview](mysql-8-0/Product-mysql-8.0-Security-overview.png)
-
-**What you're looking at**
-
-- A chart titled "Security Analysis Sunburst Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Security > Security Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Security > Security Details](mysql-8-0/Product-mysql-8.0-Security-securitydetails.png)
-
-**What you're looking at**
-
-- A table with columns: File Path, Type, Message, Severity, Line, Language
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Edit, Delete, Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 5 column(s) can be filtered/searched
-- **Pagination:** 37 pages, 25 / page
-
----
-## Security > Dependency Vulnerabilities
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Security > Dependency Vulnerabilities](mysql-8-0/Product-mysql-8.0-Security-dependencyvulnerabilities.png)
-
-**What you're looking at**
-
-- A chart titled "Security Analysis Sunburst Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Security > Security Rule Violations
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Security > Security Rule Violations](mysql-8-0/Product-mysql-8.0-Security-securityruleviolations.png)
-
-**What you're looking at**
-
-- A table with columns: Severity, Type, Occurrences
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 2 column(s) can be filtered/searched
-- **Pagination:** 3 pages, 25 / page
-
----
-## Security > Time Trends
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Security > Time Trends](mysql-8-0/Product-mysql-8.0-Security-timetrends.png)
-
-**What you can do here**
-
-- **Export/save:** Save as PNG
-- **Dropdown filters:** Past 30 days
-
----
-## Licenses and Packages > Charts
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Licenses and Packages > Charts](mysql-8-0/Product-mysql-8.0-Licensesandpackages-charts.png)
-
-**What you're looking at**
-
-- A chart titled "License Compliance Sunburts Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Licenses and Packages > Licenses Overview
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Licenses and Packages > Licenses Overview](mysql-8-0/Product-mysql-8.0-Licensesandpackages-licensesoverview.png)
-
-**What you're looking at**
-
-- A chart titled "License Compliance Sunburts Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Licenses and Packages > Licenses Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Licenses and Packages > Licenses Details](mysql-8-0/Product-mysql-8.0-Licensesandpackages-licensesdetails.png)
-
-**What you're looking at**
-
-- A table with columns: License Name, Source, Language, Allows Saas, Allows Distribution, Allows Modification, Review Status
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Edit, Delete, Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 6 column(s) can be filtered/searched
-- **Pagination:** 30 pages, 25 / page
-
----
-## Licenses and Packages > Packages Overview
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Licenses and Packages > Packages Overview](mysql-8-0/Product-mysql-8.0-Licensesandpackages-packagesoverview.png)
-
-**What you're looking at**
-
-- A chart titled "License Compliance Sunburts Chart"
-
-**What you can do here**
-
-- **Export/save:** png
-
----
-## Licenses and Packages > Packages Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Licenses and Packages > Packages Details](mysql-8-0/Product-mysql-8.0-Licensesandpackages-packagesdetails.png)
-
-**What you're looking at**
-
-- A table with columns: Name, File Path, Type, License, Severity, Message
-
-**What you can do here**
-
-- **Export/save:** csv
-- **Other actions:** Edit, Show/hide columns
-- **Column filters:** 5 column(s) can be filtered/searched
-
----
-## Licenses and Packages > Time Trends
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Licenses and Packages > Time Trends](mysql-8-0/Product-mysql-8.0-Licensesandpackages-timetrends.png)
-
-**What you can do here**
-
-- **Export/save:** Save as PNG
-- **Dropdown filters:** Past 30 days
-
----
-## Tech Debt
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Tech Debt](mysql-8-0/Product-mysql-8.0-Techdebt-overview.png)
-
-**What you can do here**
-
-- **Export/save:** Save Product Settings or Export As JSON File
-- **Other actions:** Reset to default, Align Tech Debt
-- **Dropdown filters:** Critical, Blocker, Critical, Critical, Critical
-
----
-## AI Readiness
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![AI Readiness](mysql-8-0/Product-mysql-8.0-Aireadiness-overview.png)
-
-**What you can do here**
-
-- **Export/save:** Save Product Settings or Export As JSON File
-- **Other actions:** Reset to default
-
----
-## AI Assistant
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![AI Assistant](mysql-8-0/Product-mysql-8.0-Aiassistant-overview.png)
-
-**What you can do here**
-
-- **Dropdown filters:** All categories
-
----
-## Benchmark
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Benchmark](mysql-8-0/Product-mysql-8.0-Benchmark-overview.png)
-
-**What you can do here**
-
-- **Export/save:** PDF
-- **Dropdown filters:** AI Integration
-
----
-## Scan Status > Job Details
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Scan Status > Job Details](mysql-8-0/Product-mysql-8.0-Scanstatus-jobdetails.png)
-
-**What you're looking at**
-
-- A table with columns: Name, Product, Start Time, Duration, Status, Status Text
-
-**What you can do here**
-
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Pagination:** 1 pages, 25 / page
-
----
-## Scan Status > Job Matrix
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Scan Status > Job Matrix](mysql-8-0/Product-mysql-8.0-Scanstatus-jobmatrix.png)
-
-_No interactive controls or data visualizations detected._
-
----
-## Scan Status > Log
-
-**URL:** `https://staging-internal.codewetrust-api.com/analyzed-repository/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![Scan Status > Log](mysql-8-0/Product-mysql-8.0-Scanstatus-log.png)
-
-**What you're looking at**
-
-- A table with columns: Time, Level
-
-**What you can do here**
-
-- **Other actions:** Show/hide columns
-- **Dropdown filters:** 25 / page
-- **Column filters:** 1 column(s) can be filtered/searched
-- **Pagination:** 1579 pages, 25 / page
-
----
-## https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-0c9d-08dddc7ce128
-
-**URL:** `https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-0c9d-08dddc7ce128`
-
-![https://staging-internal.codewetrust-api.com/product/000c0000-6e13-0646-0c9d-08dddc7ce128](mysql-8-0/mysql-8.0_product-detail.png)
+![Reports & Exports](sample-3/Product-sample 3-Reportsexports.png)
 
 **What you're looking at**
 
 - A chart titled "root"
+- A chart titled "Security Severity Distribution"
+- A chart titled "Security Outdated Vulnerable Packages"
 - A pie chart titled "Security License Distribution"
 - A bar chart titled "Security License Risk Distribution"
-- A bar chart titled "Quality and Development Team Defects"
 - A pie chart titled "Quality and Development Team Tech Stack"
 - A bar chart titled "Quality and Development Team Commit Activity"
 - A table with columns: Repository, Languages, Size, LOC, Date, Parsing Time, Technical Debt
@@ -1468,18 +808,67 @@ _No interactive controls or data visualizations detected._
 - **Column filters:** 2 column(s) can be filtered/searched
 
 ---
-## https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-87ad-08dddc7ce123
+## Security
 
-**URL:** `https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-87ad-08dddc7ce123`
+**URL:** `https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-a6ee-08deaac7a2e3`
 
-![https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-87ad-08dddc7ce123](product-p-000c0000-6e13-0646-87ad-08dddc.png)
+![Security](security.png)
 
 **What you're looking at**
 
 - A chart titled "root"
+- A chart titled "Security Severity Distribution"
+- A chart titled "Security Outdated Vulnerable Packages"
 - A pie chart titled "Security License Distribution"
 - A bar chart titled "Security License Risk Distribution"
-- A bar chart titled "Quality and Development Team Defects"
+- A pie chart titled "Quality and Development Team Tech Stack"
+- A bar chart titled "Quality and Development Team Commit Activity"
+- A table with columns: Repository, Languages, Size, LOC, Date, Parsing Time, Technical Debt
+
+**What you can do here**
+
+- **Export/save:** Save as PNG
+- **Other actions:** Scan Again, PPTX, PDF, CSV, Delete, Rescan, Show/hide columns
+- **Column filters:** 2 column(s) can be filtered/searched
+
+---
+## Quality and Development Team
+
+**URL:** `https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-a6ee-08deaac7a2e3`
+
+![Quality and Development Team](quality-and-development-team.png)
+
+**What you're looking at**
+
+- A chart titled "root"
+- A chart titled "Security Severity Distribution"
+- A chart titled "Security Outdated Vulnerable Packages"
+- A pie chart titled "Security License Distribution"
+- A bar chart titled "Security License Risk Distribution"
+- A pie chart titled "Quality and Development Team Tech Stack"
+- A bar chart titled "Quality and Development Team Commit Activity"
+- A table with columns: Repository, Languages, Size, LOC, Date, Parsing Time, Technical Debt
+
+**What you can do here**
+
+- **Export/save:** Save as PNG
+- **Other actions:** Scan Again, PPTX, PDF, CSV, Delete, Rescan, Show/hide columns
+- **Column filters:** 2 column(s) can be filtered/searched
+
+---
+## Reports & Exports
+
+**URL:** `https://staging-internal.codewetrust-api.com/product/P-000c0000-6e13-0646-a6ee-08deaac7a2e3`
+
+![Reports & Exports](reports-exports.png)
+
+**What you're looking at**
+
+- A chart titled "root"
+- A chart titled "Security Severity Distribution"
+- A chart titled "Security Outdated Vulnerable Packages"
+- A pie chart titled "Security License Distribution"
+- A bar chart titled "Security License Risk Distribution"
 - A pie chart titled "Quality and Development Team Tech Stack"
 - A bar chart titled "Quality and Development Team Commit Activity"
 - A table with columns: Repository, Languages, Size, LOC, Date, Parsing Time, Technical Debt

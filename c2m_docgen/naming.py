@@ -66,6 +66,19 @@ def build_screenshot_filename(product_name, tab_name, lhn_name, ext="png"):
     return f"{base}.{ext}" if ext else base
 
 
+def build_flat_tab_filename(product_name, tab_name, ext="png"):
+    """Naming scheme for the /product/{id} page's flat, non-nested tab bar
+    (an Ant Design Radio.Group styled as buttons -- Security / Quality and
+    Development Team / Reports & Exports -- with no LHN sub-menu at all,
+    unlike the nested tabs on /analyzed-repository/{id}):
+    "Product-{product_name}-{TabSlug}[.ext]", e.g.
+        build_flat_tab_filename("openclaw 1", "Reports & Exports")
+          -> "Product-openclaw 1-Reportsexports.png"
+    """
+    base = f"Product-{product_name}-{_squash_tab(tab_name)}"
+    return f"{base}.{ext}" if ext else base
+
+
 def classify_route(url):
     """Maps a URL to (page_type, guid_or_None) using ROUTE_PATTERNS, falling
     back to a slugified version of the raw path for anything unrecognized
